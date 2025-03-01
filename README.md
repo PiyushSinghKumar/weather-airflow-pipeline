@@ -40,14 +40,6 @@ The pipeline performs the following steps:
 
 The weather data is stored in a PostgreSQL table with columns for latitude, longitude, temperature, windspeed, winddirection, weathercode, and timestamp.
 
-## Contributing
-
-Contributions are welcome! Open an issue or submit a pull request.
-
-## License
-
-MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Open-Meteo](https://open-meteo.com/)
